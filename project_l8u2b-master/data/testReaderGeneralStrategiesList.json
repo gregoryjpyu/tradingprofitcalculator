@@ -1,0 +1,38 @@
+{
+  "strategies": [
+    {
+      "Strategy name": "goodStrat",
+      "tradesList": [
+        {
+          "shares": 10,
+          "ticker": "FB",
+          "priceBought": 10030,
+          "priceSold": 20040
+        },
+        {
+          "shares": 3000,
+          "ticker": "BB",
+          "priceBought": 0,
+          "priceSold": 400
+        }
+      ]
+    },
+    {
+      "Strategy name": "badStrat",
+      "tradesList": [
+        {
+          "shares": 2000,
+          "ticker": "GME",
+          "priceBought": 50000,
+          "priceSold": 500
+        },
+        {
+          "shares": 50,
+          "ticker": "MEOH",
+          "priceBought": 4532,
+          "priceSold": 4532
+        }
+      ]
+    }
+  ]
+}
